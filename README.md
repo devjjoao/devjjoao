@@ -77,15 +77,15 @@ disponível   = sim
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,next,vite,tailwind,sass&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,prisma,mysql,sqlite,mongodb,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,mongodb,supabase&theme=dark"/>
 
 <br/><br/>
 
