@@ -81,15 +81,15 @@ disponível   = sim
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,vite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,sqlite,mongodb,supabase&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,discordjs,npm,express,sqlite,mongodb,supabase&theme=dark"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma,linux,replit&theme=dark"/>
 
 </div>
 
@@ -132,7 +132,7 @@ disponível   = sim
 <div align="center">
 
 <a href="https://github.com/devjjoao">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/joão-alberto-pinho">
