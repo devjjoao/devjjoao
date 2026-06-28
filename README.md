@@ -35,11 +35,10 @@ foco:
   - Sistemas
   - Performance
 stack:
-  - React · Next.js · TypeScript
-  - Node.js · Python
+  - ReactJs · BootStrap · JavaScript
+  - Node.js · Express
 aprendendo:
-  - Rust
-  - WebGL
+  - ReactJs
   - Animações Avançadas
 objetivo: >
   Construir coisas rápidas e bonitas
@@ -132,7 +131,7 @@ disponível   = sim
 <div align="center">
 
 <a href="https://github.com/devjjoao">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/>
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/joão-alberto-pinho">
