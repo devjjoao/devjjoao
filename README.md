@@ -131,26 +131,6 @@ disponível   = sim
 
 <div align="center">
 
-### Fluxo de Contribuições
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devjjoao/devjjoao/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devjjoao/devjjoao/output/pacman-contribution-graph.svg">
-  <img width="100%" src="https://raw.githubusercontent.com/devjjoao/devjjoao/output/pacman-contribution-graph-dark.svg"/>
-</picture>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 <a href="https://github.com/devjjoao">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
 </a>
